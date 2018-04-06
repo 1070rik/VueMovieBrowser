@@ -55,10 +55,7 @@ export default {
     show: false,
     dataLoaded: false,
     loading: true,
-    error: false,
-    bgc: {
-      backgroundColor: '#fff'
-    }
+    error: false
   }),
   created () {
     if (this.$route.params.name.length > 1) {
