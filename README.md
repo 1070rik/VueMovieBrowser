@@ -18,5 +18,5 @@ npm run build
 npm run build --report
 ```
 
-###Screenshots
+### Screenshots
 > Check [the screenshots folder](src/screenshots) for the screenshots
